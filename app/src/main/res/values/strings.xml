@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pictures</string>
+    <string name="picture">A picture from album</string>
+    <string name="sarah">Sarah Mahmuda</string>
+    <string name="author">author:</string>
+    <string name="year">year: %s</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next one</string>
+</resources>
